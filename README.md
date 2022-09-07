@@ -8,4 +8,4 @@
 <br>
 <hr>
 
-<img src="https://github.com/account" width=100 height=100 alt="Kutoto Icon"/>
+<img src="https://avatars.githubusercontent.com/u/92585280?s=400&u=789518476e30582e3d5892eef5506100f9114d3b&v=4" width=100 height=100 alt="Kutoto Icon"/>
