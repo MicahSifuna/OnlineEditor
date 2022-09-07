@@ -4,3 +4,8 @@
 
 
 <p>The backend files sit on /backend/ while frontend codes sit on /client/ </p>
+
+<br>
+<hr>
+
+<img src="https://github.com/account" width=100 height=100 alt="Kutoto Icon"/>
